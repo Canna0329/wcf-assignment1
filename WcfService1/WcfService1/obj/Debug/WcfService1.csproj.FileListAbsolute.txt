@@ -1,0 +1,7 @@
+C:\Users\alex_\Documents\GitHub\wcf-assignment1\WcfService1\WcfService1\bin\WcfService1.dll.config
+C:\Users\alex_\Documents\GitHub\wcf-assignment1\WcfService1\WcfService1\bin\WcfService1.dll
+C:\Users\alex_\Documents\GitHub\wcf-assignment1\WcfService1\WcfService1\bin\WcfService1.pdb
+C:\Users\alex_\Documents\GitHub\wcf-assignment1\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.AssemblyReference.cache
+C:\Users\alex_\Documents\GitHub\wcf-assignment1\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\alex_\Documents\GitHub\wcf-assignment1\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\alex_\Documents\GitHub\wcf-assignment1\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
